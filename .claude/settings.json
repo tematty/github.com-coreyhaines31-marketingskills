@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "marketing-skills@marketingskills": true
+  },
+  "extraKnownMarketplaces": {
+    "marketingskills": {
+      "source": {
+        "source": "github",
+        "repo": "tematty/github.com-coreyhaines31-marketingskills"
+      }
+    }
+  }
+}
